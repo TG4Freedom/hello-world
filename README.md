@@ -1,2 +1,3 @@
 # hello-world
 Brand new to this. Hoping to learn how to code on the Ethereum platform for a project I'm working on.
+My super secret project will change the way the world uses the services of this industry...
